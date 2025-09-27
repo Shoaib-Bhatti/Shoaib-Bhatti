@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+It's+Shoaib+Bhatti;AI+Enthusiast;Future+Software+Engineer+%26+Web+Developer;Tech+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+It's+%2A%2AShoaib+Bhatti%2A%2A;AI+Enthusiast;Future+Software+Engineer+%26+Web+Developer;Tech+Explorer"/>
 
 <p>- <i>Passionate about technology, problem-solving, and exploring the endless possibilities of AI & software engineering.</i></p>
 
