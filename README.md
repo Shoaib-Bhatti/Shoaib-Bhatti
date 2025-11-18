@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Shoaib Bhatti 👋</h1>
+<h1 align="center">Hey! I'm Shoaib Nazar Bhatti </h1>
 
 <p align="center">
   <a href="https://github.com/Shoaib-Bhatti">
@@ -14,18 +14,18 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
-- 🎓 I’m an **18-year-old 3rd semester Computer Science student** in Pakistan  
-- 💻 Skilled in **C++, Python, Java**  
-- 🌐 Have some experience with **HTML & CSS**  
-- 🤖 Passionate about **AI, software engineering, and web development**  
-- 🌱 Currently learning and exploring more about **AI & modern web technologies**  
+-  I’m an **18-year-old 3rd semester Computer Science student** in Pakistan  
+-  Skilled in **C++, Python, Java**  
+-  Have some experience with **HTML & CSS**  
+-  Passionate about **AI, software engineering, and web development**  
+-  Currently learning and exploring more about **AI & modern web technologies**  
 
 ---
 
 ### 📬 Connect with Me  
-- 📧 **Email:** [shoaibnazarpersonal@gmail.com](mailto:shoaibnazarpersonal@gmail.com)  
-- 🌐 **Instagram:** [@shoaib.personal](https://www.instagram.com/shoaib.personal/#)  
-- 🌐 **Threads:** [@shoaib.personal](https://www.threads.com/@shoaib.personal?xmt=AQF0sG04yBAh5mhIrZ6QHiqDmZ80tQDwwnPYUiyPmOeU6Gw)  
+-  **Email:** [shoaibnazarpersonal@gmail.com](mailto:shoaibnazarpersonal@gmail.com)  
+-  **Instagram:** [@shoaib.personal](https://www.instagram.com/shoaib.personal/#)  
+-  **Threads:** [@shoaib.personal](https://www.threads.com/@shoaib.personal?xmt=AQF0sG04yBAh5mhIrZ6QHiqDmZ80tQDwwnPYUiyPmOeU6Gw)  
 
 ---
 
